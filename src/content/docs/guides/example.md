@@ -1,11 +1,12 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Mi página de contenido
+description: Cómo utilizar los enlaces de anclaje integrados de Starlight.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+## Introducción
 
-## Further reading
+Puedo enlazar a [mi conclusión](#conclusión) más abajo en la misma página.
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+## Conclusión
+
+`https://mi-sitio.com/page1/#introduction` navega directamente a mi Introducción.
