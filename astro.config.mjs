@@ -12,14 +12,17 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Guides',
+          label: 'Estadística Clásica',
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: 'Example Guide', slug: 'guides/example' },
+            {
+              label: 'Conceptos Básicos',
+              slug: 'estadística-clásica/conceptos-básicos',
+            },
           ],
         },
         {
-          label: 'Reference',
+          label: 'Estadística Computacional',
           autogenerate: { directory: 'reference' },
         },
       ],
