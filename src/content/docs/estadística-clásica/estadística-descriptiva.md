@@ -14,11 +14,27 @@ lorem ipsum
 
 lorem ipsum
 
-### Indicadores Estadísticos
+### Indicadores estadísticos
 
 lorem ipsum
 
-### Tablas de frecuencias
+### Tablas de frecuencia 
+
+lorem ipsum
+
+### Tablas de distribución 
+
+lorem ipsum
+
+### Tipos de gráficos estadísticos 
+
+lorem ipsum
+
+### Gráficos
+
+lorem ipsum
+
+### Medidas de tendencia
 
 lorem ipsum
 

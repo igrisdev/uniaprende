@@ -1,5 +1,5 @@
 ---
-title: Modelación Estadística
+title: Indice de deserción en la Institución
 description: A reference page in my new Starlight docs site.
 ---
 
