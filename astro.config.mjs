@@ -7,6 +7,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'UniAprende',
+      customCss: ['./src/styles/custom.css'],
       social: {
         github: 'https://github.com/withastro/starlight',
       },
