@@ -16,20 +16,16 @@ export default defineConfig({
           autogenerate: { directory: 'estadística-clásica' },
         },
         {
-          label: 'Estadística Clásica 2do Formato',
-          autogenerate: { directory: 'estadística-clásica2' },
-        },
-        {
           label: 'Estadística Computacional',
-          autogenerate: { directory: 'estadística-clásica' },
+          autogenerate: { directory: 'estadística-computacional' },
         },
         {
           label: 'Recursos Educativos',
-          autogenerate: { directory: 'estadística-clásica' },
+          autogenerate: { directory: 'recursos-educativos' },
         },
         {
           label: 'Datos Estadísticos Institucionales',
-          autogenerate: { directory: 'estadística-clásica' },
+          autogenerate: { directory: 'datos-estadísticos-institucionales' },
         },
       ],
     }),

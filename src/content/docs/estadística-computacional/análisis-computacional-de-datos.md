@@ -1,8 +1,6 @@
 ---
-title: Conceptos Básicos
+title: Análisis Computacional De Datos
 description: A reference page in my new Starlight docs site.
-sidebar:
-  order: 1
 ---
 
 Reference pages are ideal for outlining how things work in terse and clear terms.
