@@ -8,42 +8,50 @@ Less concerned with telling a story or addressing a specific use case, they shou
 
 ## Estadística Descriptiva Univariante
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ### Papel de la ingeniería en la estadística
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ### Indicadores estadísticos
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ### Tablas de frecuencia 
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ### Tablas de distribución 
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ### Tipos de gráficos estadísticos 
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ### Gráficos
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ### Medidas de tendencia
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ## Estadística Descriptiva Bivariante
 
-lorem ipsum
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
 ## Estadística Descriptiva Multivariante
 
-lorem ipsum
-
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+Reference pages are ideal for outlining how things work in terse and clear terms.
+Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
