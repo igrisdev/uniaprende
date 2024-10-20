@@ -14,6 +14,8 @@ lorem ipsum
 
 lorem ipsum
 
+![imagen](https://picsum.photos/id/1005/200/300)
+
 ## Muestra, Población
 
 lorem ipsum

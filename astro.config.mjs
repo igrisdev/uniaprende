@@ -15,31 +15,24 @@ export default defineConfig({
         {
           label: 'Estadística Clásica',
           autogenerate: { directory: 'estadística-clásica' },
+          collapsed: true,
         },
         {
           label: 'Estadística Computacional',
           autogenerate: { directory: 'estadística-computacional' },
+          collapsed: false,
         },
         {
           label: 'Recursos Educativos',
           autogenerate: { directory: 'recursos-educativos' },
+          collapsed: false,
         },
         {
           label: 'Datos Estadísticos Institucionales',
           autogenerate: { directory: 'datos-estadísticos-institucionales' },
+          collapsed: false,
         },
       ],
     }),
   ],
 })
-
-// {
-//   label: 'Estadística Clásica',
-//   items: [
-//     // Each item here is one entry in the navigation menu.
-//     {
-//       label: 'Conceptos Básicos',
-//       slug: 'estadística-clásica/conceptos-básicos',
-//     },
-//   ],
-// },
