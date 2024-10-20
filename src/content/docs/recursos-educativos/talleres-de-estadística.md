@@ -1,5 +1,5 @@
 ---
-title: Documentación del material académico
+title: Talleres De Estadística
 description: A reference page in my new Starlight docs site.
 ---
 
